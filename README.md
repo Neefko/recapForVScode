@@ -29,7 +29,7 @@
 1. Скачайте репозиторий:
 
    ```bash
-   git clone https://github.com/USERNAME/recapForVScode
+   git clone https://github.com/Neefko/recapForVScode
    ```
 2. Откройте папку в VS Code
 3. Установите зависимости:
